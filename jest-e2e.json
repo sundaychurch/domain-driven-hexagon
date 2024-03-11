@@ -1,4 +1,4 @@
-{
+3{
   "moduleFileExtensions": ["js", "json", "ts"],
   "rootDir": ".",
   "testEnvironment": "node",
